@@ -1,1 +1,1 @@
-#BSC-Token
+#BSCToken
